@@ -1,4 +1,4 @@
-\w+: (\d+\.\d+) (\w{3}) ([^(].*) \w+ \*(\d{4})
+\w+: (\d+\.\d+) (\w{3}) ([^(].*) Visa \*(\d{4})
 
 -----COLUMNS-----
 outcome;instrument;payee;syncid
