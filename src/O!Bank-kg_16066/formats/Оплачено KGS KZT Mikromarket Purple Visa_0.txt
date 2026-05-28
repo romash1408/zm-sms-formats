@@ -1,7 +1,7 @@
-\w+: (\d+\.\d+) (\w{3})(?: \((\d+\.\d+) (\w{3})\))? (.*) \w+ \*(\d{4})
+\w+: (\d+\.\d+) (\w{3}) \((\d+\.\d+) (\w{3})\) (.*) \w+ \*(\d{4})
 
 -----COLUMNS-----
-outcome;acc_instrument;op_outcome;instrument;payee;syncid
+outcome;acc_instrument;op_outcome;op_instrument;payee;syncid
 
 -----EXAMPLE-----
 Оплачено: 930.13 KGS (4993.00 KZT)
