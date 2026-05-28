@@ -1,0 +1,9 @@
+\w+: (\d+\.\d+) (\w{3})(?: \((\d+\.\d+) (\w{3})\))? (.*) \w+ \*(\d{4})
+
+-----COLUMNS-----
+outcome;acc_instrument;op_outcome;instrument;payee;syncid
+
+-----EXAMPLE-----
+Оплачено: 930.13 KGS (4993.00 KZT)
+Mikromarket Purple #10
+Visa *3720
