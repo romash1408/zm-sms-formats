@@ -42,6 +42,11 @@ Thumbs.db
 /dist
 /log
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
 # misc
 /npm-debug.log
 /yarn-debug.log
