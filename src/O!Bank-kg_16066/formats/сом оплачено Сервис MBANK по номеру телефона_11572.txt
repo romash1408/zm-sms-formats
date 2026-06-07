@@ -1,7 +1,7 @@
-(\d[\d\s.,]*)\s+(\S+)\s+оплачено Сервис: (.*)
+(\d[\d\s.,]*)\s+\S+\s+оплачено Сервис: (.*)
 
 -----COLUMNS-----
-outcome;instrument;payee
+outcome;payee
 
 -----EXAMPLE-----
 10000.00 сом оплачено
